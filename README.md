@@ -111,7 +111,8 @@ Jupyter Notebook
 
 👨‍💻 Contributors
 
-[Your Name]
+Md Abdullah Bin Abu Sayed
+
 
 
 
